@@ -6,6 +6,7 @@ The project involved conducting an extensive analysis of the data using SQL to g
 
 ## Technologies Used
 - SQL
+- Python
 - Excel
 
 ## Key Findings
